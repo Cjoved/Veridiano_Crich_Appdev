@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASSESSTMENT TASK_VERIDIANO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CRICH JOVED</string>
+    <string name="nav_header_subtitle">crichveridiano94@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Exit</string>
+
+    <string name="menu_home">PROFILE</string>
+    <string name="menu_gallery">LU MISSiON and Vision</string>
+    <string name="menu_slideshow">GUESSING GAME</string>
+    
+    <string name="name">Crich Joved M. Veridiano</string>
+    <string name="studentno">211-0400</string>
+    <string name="block">BSCS-DS 3A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
